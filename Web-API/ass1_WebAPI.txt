@@ -1,0 +1,7 @@
+1.Create Postman
+2.Create new webapi project
+	1.Create Product controller
+	2.Write Product CURD actions
+	3.Each action should declared with matching route and action verb attribute
+	4.Action methods like AddProduct,UpdatProduct,GetProducts,GetProductsById,DeleteProduct
+3.Test all the Product controller actions using Postman tool(Get,Post,Put,Delete)

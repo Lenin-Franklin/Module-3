@@ -1,0 +1,9 @@
+Create a Model Customer(Cid,Cname,City,Address)
+Create CustomerService with the following
+GetCustomers
+AddCustomer
+GetCustomerbyName
+DeletCustomer
+GetCustomerByCity
+Create Customer Controller and invoke all the Customer Service methods in controller actions
+Test all the Controller actions using PostMan
