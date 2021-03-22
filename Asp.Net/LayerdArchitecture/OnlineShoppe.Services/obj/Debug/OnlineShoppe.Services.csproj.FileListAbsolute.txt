@@ -1,0 +1,12 @@
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Services\bin\Debug\OnlineShoppe.Services.dll
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Services\bin\Debug\OnlineShoppe.Services.pdb
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Services\bin\Debug\OnlineShoppe.DAL.dll
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Services\bin\Debug\OnlineShoppe.Entities.dll
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Services\bin\Debug\OnlineShoppe.DAL.pdb
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Services\bin\Debug\OnlineShoppe.DAL.dll.config
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Services\bin\Debug\OnlineShoppe.Entities.pdb
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Services\obj\Debug\OnlineShoppe.Services.csprojAssemblyReference.cache
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Services\obj\Debug\OnlineShoppe.Services.csproj.CoreCompileInputs.cache
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Services\obj\Debug\OnlineShoppe.Services.csproj.CopyComplete
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Services\obj\Debug\OnlineShoppe.Services.dll
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Services\obj\Debug\OnlineShoppe.Services.pdb

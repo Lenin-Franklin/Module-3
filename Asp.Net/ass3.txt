@@ -1,0 +1,7 @@
+GetAllProducts()-Display all products data in GridView
+GetProductById(int Id)
+1.Ask the Pid from the User
+2.Display the Product details in DetailsView
+GetAllProducts()-Display all products data in GridView
+Do the Above requirement using SqlDatasource control
+Add all the features to the grid view like paging,sorting and deleting and editing.

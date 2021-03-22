@@ -1,0 +1,14 @@
+Server-Side StateManagement
+========================
+State is maintained with in webserver(IIS)
+1.Session
+It is an object and it can hold any type of Data and that can access across multiple pages with in the website
+//set value in Session
+Session["key_name"]=value
+//Get value from Session
+var k=Session["key"] //return data in the object form
+int k=(int)Session["k"]
+Session data is stored with in web server(In Process) and SqlServer(Out Process)
+Session default expire time is 20min
+Session data is avaible only for current browser session
+2.Application

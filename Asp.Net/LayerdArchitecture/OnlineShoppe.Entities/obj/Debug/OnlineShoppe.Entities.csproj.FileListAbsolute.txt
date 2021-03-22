@@ -1,0 +1,6 @@
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Entities\bin\Debug\OnlineShoppe.Entities.dll
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Entities\bin\Debug\OnlineShoppe.Entities.pdb
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Entities\obj\Debug\OnlineShoppe.Entities.csprojAssemblyReference.cache
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Entities\obj\Debug\OnlineShoppe.Entities.csproj.CoreCompileInputs.cache
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Entities\obj\Debug\OnlineShoppe.Entities.dll
+D:\Training(18.02.2021)\Module 3\Asp.Net\LayerdArchitecture\OnlineShoppe.Entities\obj\Debug\OnlineShoppe.Entities.pdb

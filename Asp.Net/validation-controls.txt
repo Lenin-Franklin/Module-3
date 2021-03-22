@@ -1,0 +1,25 @@
+Statemanagment in Asp.net
+=======================
+It is a concept of managing state(page data) in between roudtrips or postback(sending request to itself)
+1.Client-Side Statemanagement(state is managed with in browser)
+a.Hiddenfild
+-It is a control,but it is not visible on the page.
+-It is used to manage page varialbe values in between round trips or postbacks
+b.ViewState
+It is a client-side statemanagement technique
+It automatically maintain all the controls data in between postaback.
+//set value
+ViewState["key"]=value //value is of any type
+//get value
+var item=ViewState["key"] //return in object form 
+c.Cookie
+Cookie strores small data values with in the client-machine/browser
+ex: password,username etc
+//set value
+Response.Cookies["key"].value="value"
+//get value
+var v=Request.Cookies["key"].value
+d.QueryString
+2.Server-Side Statemanagement(state is managed by Webserver(IIS))
+a.Session
+b.Application

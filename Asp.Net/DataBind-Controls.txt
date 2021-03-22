@@ -1,0 +1,20 @@
+Data-Bind Controls
+=================
+Add Data-Bind controls binds data source data(Dataset,Datatable)
+GridView
+ListView
+Datalist
+Repeater
+All ListCotrols(DDL,ListBox,RadioButtonList etc)
+
+GridView
+=======
+It display records in table format
+It can perform following operations
+1.Sorting
+2.Paging
+3.Edit and Delete Row 
+ListView do the same as GridView
+It can add record as well
+DataList and Repeater
+both dispaly data in custamized format

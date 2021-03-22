@@ -1,0 +1,18 @@
+Student Registration Form
+Sid
+Sname
+DOB
+Age
+Class
+Section
+Address(Multiline)
+Mobile
+EmailId
+LoginID
+Password
+Note:On Click Register Button Page should navigate to Login
+Create Student Model then assign Student details to Model Object
+
+Note1: Fallow conding stadards.
+
+Postback-posting request to server and getting back
