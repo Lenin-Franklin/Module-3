@@ -1,0 +1,18 @@
+Pefrom CRUD operations wrt product table using web api and EF Core
+1.Create API Project
+2.Run the scafolding command to generate models(EF core DB First)
+3.Create Repository Folder
+	1.Add IProductRepository with following functions
+		List<Product> GetProducts()
+		Product GetProduct(int Id)
+		bool AddProduct(Product product)
+		bool UpdateProduct(Product product)
+		bool DeleteProduct(int Id)
+	2.Add ProductRepository and Implement IProductReposiotry
+		Write all the Functionalities of IProductRepository
+4.Create Service Folder
+	Add IProductService and ProductService
+	Repeat same functionalities of Repository
+	Invoke all the ProductRepository functions in Product service
+5.Create Product Controller and invoke Product service functions using Action methods
+6.Test All the Controller actions using POSTMAN

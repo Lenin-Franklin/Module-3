@@ -1,0 +1,32 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetFlowers</title>
+</head>
+<body>
+    <h2>Flowers in ABC Garder</h2>
+    @{ 
+        //read flower list from viewdata
+        List<string> l=ViewData["list"] as List<string>;
+        <ul>
+           @foreach(var item in l)
+            {
+                <li>@item</li>
+            }
+        </ul>
+		<table border="1">
+			@foreach (var item in l)
+			{
+				<tr><td>@item</td></tr>
+			}
+		</table>
+    }
+</body>
+</html>

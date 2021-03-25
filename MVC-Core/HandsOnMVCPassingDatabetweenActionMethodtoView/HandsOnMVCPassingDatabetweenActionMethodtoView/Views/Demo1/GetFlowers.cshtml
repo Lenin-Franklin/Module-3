@@ -1,0 +1,20 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetFlowers</title>
+</head>
+<body>
+    <h2>@DateTime.Now</h2>
+    @foreach(var item in ViewBag.List)
+            {
+                <h2>@item</h2>
+            }
+</body>
+</html>

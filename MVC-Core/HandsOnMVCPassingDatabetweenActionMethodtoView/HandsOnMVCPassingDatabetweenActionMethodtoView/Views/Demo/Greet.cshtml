@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Greet</title>
+</head>
+<body>
+    <h2>Welcome @ViewData["un"]</h2>
+    @{ 
+		for(int i=1;i<=10;i++)
+            {
+                <h4>Hi @ViewData["un"]</h4>
+            }
+    }
+</body>
+</html>

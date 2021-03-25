@@ -1,0 +1,9 @@
+Create Employee Repository Class with following functions
+AddEmployee()
+UpdateEmployee()
+DeleteEmployee()
+GetEmployees()
+GetEmployeeById()
+Use EF Database first approch to crate entities
+Create Employee Contoller and define required action methods and invoke repository functions
+Test all the Controller actions using Postman

@@ -1,0 +1,11 @@
+Passing-Data-Between_ActionMethod-To-ViewTemplate
+=============================================
+1.ViewData
+It is an object used to passign data from action method to view template
+//set value
+ViewData["key"]=value //stores all data into object form
+
+//read value
+ViewData["key"] //return object value
+2.ViewBag
+It is a dynamic property collection
