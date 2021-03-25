@@ -1,0 +1,40 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+	<fieldset>
+		<legend>Login</legend>
+		<form action="Validate">
+			<table>
+				<tr>
+					<td>Username</td>
+					<td><input name="Uname" type="text" /></td>
+				</tr>
+				<tr>
+					<td>Password</td>
+					<td><input name="Pwd" type="password" /></td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<input type="submit" value="SingIn" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="color:rebeccapurple">@ViewBag.ErrMsg</span>
+					</td>
+				</tr>
+			</table>
+		</form>
+	</fieldset>
+</body>
+</html>

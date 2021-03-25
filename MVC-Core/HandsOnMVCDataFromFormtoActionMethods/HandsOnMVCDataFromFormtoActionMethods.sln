@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnMVCDataFromFormtoActionMethods", "HandsOnMVCDataFromFormtoActionMethods\HandsOnMVCDataFromFormtoActionMethods.csproj", "{50F7967A-C72B-4A97-987C-ED27A24945F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F7967A-C72B-4A97-987C-ED27A24945F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F7967A-C72B-4A97-987C-ED27A24945F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F7967A-C72B-4A97-987C-ED27A24945F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F7967A-C72B-4A97-987C-ED27A24945F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F2DEB1-7F08-465C-9F61-BB8C8EA25055}
+	EndGlobalSection
+EndGlobal
